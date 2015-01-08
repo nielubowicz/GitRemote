@@ -1,3 +1,4 @@
 Hi I am local copy
 this is second line
 adding data to check fetch and pull
+this is fourth line from local
